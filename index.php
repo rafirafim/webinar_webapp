@@ -1,4 +1,4 @@
 <?php
-header("locator:home.html")
+header("locator:ligin.html")
 
 ?>
